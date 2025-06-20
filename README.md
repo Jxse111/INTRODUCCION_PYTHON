@@ -31,9 +31,9 @@ Para seguir el contenido de este repositorio, necesitas:
 
     Clona el repositorio:
 
-git clone https://github.com/Jxse111/INTRODUCCION_PYTHON.git
+´´´git clone https://github.com/Jxse111/INTRODUCCION_PYTHON.git´´´
 
-cd INTRODUCCION_PYTHON
+´´´cd INTRODUCCION_PYTHON´´´
 
 Explora las carpetas por módulo o tema.
 
