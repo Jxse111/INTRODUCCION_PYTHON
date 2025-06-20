@@ -29,7 +29,8 @@ Python 3.7 o superior 👉 [Descargar aquí](https://www.python.org/downloads/)
 
 Un editor de código, como [VS Code](https://code.visualstudio.com/)
 
-    Cómo usar este repositorio
+▶️ Cómo usar este repositorio
+
     Clona el repositorio:
     git clone https://github.com/Jxse11/INTRODUCCION_PYTHON.git
     Despues de clonarlo, para acceder al directorio:
