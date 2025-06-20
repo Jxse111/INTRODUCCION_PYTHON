@@ -23,6 +23,11 @@ Este repositorio incluye:
 🛠️ Requisitos
 
 Para seguir el contenido de este repositorio, necesitas:
+Para seguir el contenido de este repositorio, necesitas:
+
+Python 3.7 o superior 👉 [Descargar aquí](https://www.python.org/downloads/)
+
+Un editor de código, como [VS Code](https://code.visualstudio.com/)
 
     Cómo usar este repositorio
     Clona el repositorio:
