@@ -28,11 +28,10 @@ Para seguir el contenido de este repositorio, necesitas:
 
     Un editor de código, como VS Code
     Cómo usar este repositorio
-
-Clona el repositorio:
-```git clone https://github.com/Jxse11/INTRODUCCION_PYTHON.git```
-
-```cd INTRODUCCION_PYTHON```
+    Clona el repositorio:
+    git clone https://github.com/Jxse11/INTRODUCCION_PYTHON.git
+    Despues de clonarlo, para acceder al directorio:
+    cd INTRODUCCION_PYTHON
 
 Explora las carpetas por módulo o tema.
 
