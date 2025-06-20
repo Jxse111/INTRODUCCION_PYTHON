@@ -24,9 +24,6 @@ Este repositorio incluye:
 
 Para seguir el contenido de este repositorio, necesitas:
 
-    Python 3.7 o superior 👉 Descargar aquí
-
-    Un editor de código, como VS Code
     Cómo usar este repositorio
     Clona el repositorio:
     git clone https://github.com/Jxse11/INTRODUCCION_PYTHON.git
